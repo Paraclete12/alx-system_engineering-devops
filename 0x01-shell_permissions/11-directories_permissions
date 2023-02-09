@@ -1,2 +1,2 @@
 #!/bin/bash
-Find . -type d -exec chmod {} +
+chmod x+x */
